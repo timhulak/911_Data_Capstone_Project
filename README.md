@@ -2,7 +2,7 @@
 ### 911 data from Montgomery County, Pennsylvania analyzed and visualized.
 ### Range: Timestamp('2015-12-10 17:40:00') - Timestamp('2016-08-24 11:17:02')
 #### This was a 'Capstone Project' from the Udemy course: Python for Data Science and Machine Learning Bootcamp (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/). 
-### Methods:
+## Methods:
  - Python 3 (Pandas, Numpy)
  - Visualization (Matplotlib, Seaborn, Plotly/Cufflinks)
  
