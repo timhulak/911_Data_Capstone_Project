@@ -1,4 +1,6 @@
 # 911 Data Capstone Project
+- To see interactive graphs, visit: https://nbviewer.jupyter.org/github/timhulak/911_Data_Capstone_Project/blob/master/Data_Capstone_Project_911_Calls%20.ipynb
+
 ### 911 data from Montgomery County, Pennsylvania analyzed and visualized.
 ### Range: Timestamp('2015-12-10 17:40:00') - Timestamp('2016-08-24 11:17:02')
 #### This was a 'Capstone Project' from the Udemy course: Python for Data Science and Machine Learning Bootcamp (https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/). 
@@ -24,6 +26,3 @@
  - Clustermap: Hour vs. Day of the Week of 911 Calls 
  - Heatmap: Month vs. Day of the Week of 911 Calls (with annotations)
  - Clustermap: Month vs. Day of the Week of 911 Calls (with annotations)
- 
- To see interactive graphs, visit: https://nbviewer.jupyter.org/github/timhulak/911_Data_Capstone_Project/blob/master/Data_Capstone_Project_911_Calls%20.ipynb
- 
